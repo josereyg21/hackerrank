@@ -1,0 +1,7 @@
+o = input('')
+oo = input('')
+a = int(o)
+b = int(oo)
+print(a + b)
+print(a - b)
+print(a * b)
